@@ -6,7 +6,7 @@ image:
   # -- Overrides the image tag whose default is the chart appVersion.
   tag: ""
   # -- Image digest.
-  digest: "sha256:f31f42c7bdeb140c82725d459e31a186e7295b406c6390c9b97e15f0b55b2ec9"
+  digest: "sha256:c5271edce60c7b8dd02a2235c230ea69c09ca7a44089999bbd3352e0bd8474b4"
 
 
 # -- Image Pull Secrets
