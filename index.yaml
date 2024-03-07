@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  spegel:
+  - apiVersion: v2
+    appVersion: v0.0.1
+    created: "2024-03-07T19:30:30.953783441Z"
+    description: Stateless cluster local OCI registry mirror.
+    digest: a3cd6a97472a4f5122ae3602b9c75bd5be631c37ab3b91bfd1111bf452a887b0
+    name: spegel
+    type: application
+    urls:
+    - https://github.com/sonyafenge/helm-charts/releases/download/spegel-v0.0.1/spegel-v0.0.1.tgz
+    version: v0.0.1
+generated: "2024-03-07T19:30:30.953818296Z"
